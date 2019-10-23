@@ -1,2 +1,4 @@
-# BME49500
-Colorization on black and white images
+## Colorize black and white images
+This is a deep neural-network based implementation for colorizing greyscale images. The neural network follows a convolutional encoder-decoder architecture. For more implementation details and results see this presentation.
+
+##### Implemented using: Python and Pytorch
